@@ -1,2 +1,7 @@
 figure {
-  font-family: Gothic, serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+audio controls {
+  padding-top: 10rem;
+}
